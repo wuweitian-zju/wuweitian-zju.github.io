@@ -28,7 +28,7 @@ author:
   pronouns         : # 
   bio              : "ZJU100 Young Professor"
   #location         : "Ningbo, China"
-  location_long    : ['Building #5', 'Ningbo Campus', 'Zhejiang University']
+  location_long    : ['Building #5', 'Ningbo Campus']
   employer         : "Zhejiang University"
   uri              : # 
   email            : "sonder@zju.edu.cn" 
