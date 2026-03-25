@@ -30,7 +30,7 @@ author:
   #location         : "Ningbo, China"
   location_long    : ['Building #5', 'Ningbo Campus']
   employer         : "Zhejiang University"
-  uri              : # 
+  uri              : https://person.zju.edu.cn/wuweitian
   email            : "sonder@zju.edu.cn" 
  
   # Academic websites 
